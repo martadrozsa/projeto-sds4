@@ -18,3 +18,9 @@ Este projeto foi desenvolvido utilizando:
 - PostgreSQL
 - Apexcharts.js para o desenvolvimento do Dashboard
 - Netlify integrado ao GitHub para fazer o deploy
+
+
+
+# Aplicação
+
+https://lnkd.in/g8QRNsiN
