@@ -24,3 +24,8 @@ Este projeto foi desenvolvido utilizando:
 # Aplicação
 
 https://lnkd.in/g8QRNsiN
+
+
+![Screenshot from 2021-10-21 07-30-40](https://user-images.githubusercontent.com/83780126/138260629-af06e2c8-c8a7-4dfc-95e5-2133814e94b6.png)
+
+![Screenshot from 2021-10-21 07-31-00](https://user-images.githubusercontent.com/83780126/138260648-6a1a344d-fbbf-4038-b80c-f8584f983ba1.png)
